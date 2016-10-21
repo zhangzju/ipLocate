@@ -4,20 +4,10 @@
       <nav class="nav">
   <div class="nav-left">
     <a class="nav-item is-brand" href="#">
-      <img src="http://bulma.io/images/bulma-type.png" alt="Bulma logo">
-    </a>
-  </div>
-
-  <div class="nav-center">
-    <a class="nav-item" href="#">
-      <span class="icon">
-        <i class="fa fa-github"></i>
-      </span>
-    </a>
-    <a class="nav-item" href="#">
-      <span class="icon">
-        <i class="fa fa-twitter"></i>
-      </span>
+      <!-- <img src="http://bulma.io/images/bulma-type.png" alt="Bulma logo"> -->
+      <strong>
+        IPLOCATE
+      </strong>
     </a>
   </div>
 
@@ -76,6 +66,6 @@ export default {
 
 <style>
 .section {
-  height: 670px;
+  height: 80%;
 }
 </style>

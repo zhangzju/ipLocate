@@ -4,8 +4,10 @@ import Index from './components/Index.vue'
 import Weather from './components/Weather.vue'
 import News from './components/News.vue'
 import VueRouter from 'vue-router'
+import VueResource from 'vue-resource'
 
 Vue.use(VueRouter)
+Vue.use(VueResource)
 
 
 const router = new VueRouter({
